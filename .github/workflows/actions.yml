@@ -1,7 +1,6 @@
 name: Github Actions Debug
 
 on:
-    pull:
     push:
         branches: '**'
 
